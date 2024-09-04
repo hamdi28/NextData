@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "164742413374",
+    "project_id": "nextdata-c9179",
+    "storage_bucket": "nextdata-c9179.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164742413374:android:b22144ec9e2745ffdea56f",
+        "android_client_info": {
+          "package_name": "com.example.next_data"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwT4Jq1ZnFec6CSuhppm6GK9v4b604DRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
