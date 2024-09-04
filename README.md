@@ -22,8 +22,8 @@ Follow these steps to set up and run the project:
 Clone this repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/hamdi28/NextData
-cd your-repository
+git clone https://github.com/hamdi28/NextData.git
+cd NextData
 ```
 ### 2. Install Flutter Dependencies
 
